@@ -48,7 +48,7 @@ Phalcon 2.0 added funds flow, and Debug + source code analysis directly shows th
 
 ![image](https://user-images.githubusercontent.com/107249780/210821062-d1da8d1a-9615-4f1f-838d-34f27b9c3f41.png)
 
-Now let's try Sam's Transaction Viewer on the same [TXID](https://tx.eth.samczsun.com/ethereum/0xd4fafa1261f6e4f9c8543228a67caf9d02811e4ad3058a2714323964a8db61f6). Sam integrates many tools in it, as shown in the picture below, you can see the change in Storage and the Gas consumed by each call.
+Now let's try Sam's Transaction Viewer on the same [TXID](https://tx.eth.samczsun.com/ethereum/0xd4fafa1261f6e4f9c8543228a67caf9d02811e4ad3058a2714323964a8db61f6). Sam integrates many tools in it, as shown in the picture below, you can see the change in Storage and the Gas consumed by each call when you click the eye button.
 
 ![210574290-790f6129-aa82-4152-b3e1-d21820524a0a-2](https://user-images.githubusercontent.com/107249780/210686653-f964a682-d2a7-4b49-bafc-c9a2b0fa2c55.png)
 
