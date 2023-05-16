@@ -69,6 +69,8 @@ We use Foundry to simulate the operation of using 1BTC to exchange for DAI in Un
 ```sh
 forge test --contracts ./src/test/Uniswapv2.sol -vvvv
 ```
+Notte: if you get Unsupported EVM version error while excute the code, you can put evm_version = 'london' in your foundry.toml .
+
 - According to the figure - we swap 1 BTC to 16,788 DAI by calling the Uniswap\_v2\_router.[swapExactTokensForTokens](https://docs.uniswap.org/contracts/v2/reference/smart-contracts/router-02#swapexacttokensfortokens) function.
 
 ![圖片](https://user-images.githubusercontent.com/52526645/211143644-6ed295f0-e0d8-458b-a6a7-71b2da8a5baa.png)
