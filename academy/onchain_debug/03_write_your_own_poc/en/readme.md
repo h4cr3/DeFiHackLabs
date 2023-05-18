@@ -43,7 +43,7 @@ Currently, smart contract values such as pricing and configuration cannot update
 
     We know the formula  `x * y = k` in a typical AMM. `x` ( ETH price in this case) =  `k / y`.
 
-    So we take a look at the Uniswap V2 WETH/USDC trading pair contract. At this address `0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc`.
+    So we take a look at the Uniswap V2 WETH/USDC trading pair contract. At this address [`0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc`] (https://etherscan.io/address/0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc).
 
 ![UniV2PairInfo](https://user-images.githubusercontent.com/26408530/211231355-0d1fb43e-280e-4328-b71e-9797be5ce7ec.png)
 
